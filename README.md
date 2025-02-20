@@ -2,4 +2,4 @@
 
 ![alt text](portfolio.png)
 
-[https://www.genome.gov/](https://soumyadipdutta1004.github.io/react-portfolio/)
+[Portfolio Link](https://soumyadipdutta1004.github.io/react-portfolio/)
